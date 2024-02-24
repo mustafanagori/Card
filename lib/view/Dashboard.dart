@@ -43,7 +43,7 @@ class _DashboardState extends State<Dashboard> {
         body: const Column(
           children: [
             SelectedProductCard(
-              img: "assets/calam.jpg",
+              img: "assets/face.jpg",
               name: "BH Clam",
               save: "23.05",
             ),
